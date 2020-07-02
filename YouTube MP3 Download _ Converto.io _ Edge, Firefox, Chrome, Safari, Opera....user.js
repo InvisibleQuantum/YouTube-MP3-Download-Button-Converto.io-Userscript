@@ -1,7 +1,7 @@
 // ==UserScript==
-// @version         3.0.2
-// @name            YouTube MP3 Download | Converto.io | Edge, Firefox, Chrome, Safari, Opera...
-// @name:en         YouTube MP3 Download | Converto.io | Edge, Firefox, Chrome, Safari, Opera...
+// @version         5.0.0
+// @name            QUQUQUQUQUQUQ
+// @name:en         QUQUQUQUQUQUQ
 // @author			InvisibleQuantum
 // @namespace       https://www.youtube.com/user/InvisibleQuantum/
 // @description     Fügt einen MP3 Download-Button zur Videoseite hinzu, um das Video über Converto.io zu MP3 umzuwandeln.
