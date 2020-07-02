@@ -1,5 +1,5 @@
 // ==UserScript==
-// @version         3.0.1
+// @version         3.0.2
 // @name            YouTube MP3 Download | Converto.io | Edge, Firefox, Chrome, Safari, Opera...
 // @name:en         YouTube MP3 Download | Converto.io | Edge, Firefox, Chrome, Safari, Opera...
 // @author			InvisibleQuantum
