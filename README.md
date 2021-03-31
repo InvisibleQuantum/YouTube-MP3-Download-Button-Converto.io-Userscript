@@ -1,4 +1,4 @@
-# YouTube-MP3-Download | Converto.io
-Fügt einen MP3 Download-Button zur Videoseite hinzu, um das Video über Converto.io zu MP3 umzuwandeln.
+# YouTube-MP3-Download | Converto.io | Userscript
+Simple YouTube MP3 download button for "Converto.io"-service
 
 https://github.com/InvisibleQuantum/YouTube-MP3-Download-Converto.io/raw/master/userscript.js
