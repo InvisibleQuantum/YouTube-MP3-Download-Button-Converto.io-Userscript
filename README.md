@@ -4,6 +4,10 @@ Simple YouTube MP3 download button for "Converto.io"-service
 
 ![NAME](https://img.shields.io/badge/dynamic/json??style=flat-square&color=black&label=&query=name&url=https://greasyfork.org/de/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera.json&cacheSeconds=1800)
 
+![NAME](https://img.shields.io/badge/dynamic/json??style=flat-square&color=black&label=&query=description&url=https://greasyfork.org/de/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera.json&cacheSeconds=1800)
+
+![NAME](https://img.shields.io/badge/dynamic/json??style=flat-square&color=black&label=&query=description&url=https://greasyfork.org/de/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera.json&cacheSeconds=1800)
+
 [![](https://raw.githubusercontent.com/InvisibleQuantum/YouTube-MP3-Download-Converto.io/master/install.jpg)](https://greasyfork.org/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera/code/YouTube%20MP3%20Download%20%7C%20Convertoio%20%7C%20Edge,%20Firefox,%20Chrome,%20Safari,%20Opera.user.js)
 
 [![Installs](https://img.shields.io/badge/dynamic/json?color=green&label=Installs&query=total_installs&url=https://greasyfork.org/de/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera.json&cacheSeconds=1800)](https://greasyfork.org/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera/code/YouTube%20MP3%20Download%20%7C%20Convertoio%20%7C%20Edge,%20Firefox,%20Chrome,%20Safari,%20Opera.user.js)
