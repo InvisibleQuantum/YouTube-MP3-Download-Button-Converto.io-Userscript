@@ -3,6 +3,8 @@ Simple YouTube MP3 download button for "Converto.io"-service
 
 [![](https://raw.githubusercontent.com/InvisibleQuantum/YouTube-MP3-Download-Converto.io/master/install.jpg)](https://github.com/InvisibleQuantum/YouTube-MP3-Download-Converto.io/raw/master/userscript.user.js)
 
+[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Installs&query=total_installs&url=https://greasyfork.org/de/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera.json&cacheSeconds=1800)](https://greasyfork.org/de/scripts/30633-youtube-mp3-download-converto-io-edge-firefox-chrome-safari-opera.json)
+
 # Screenshots
 ![Download Button][1]
 
